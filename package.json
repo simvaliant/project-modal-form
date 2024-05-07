@@ -1,0 +1,14 @@
+{
+  "name": "project-modal-form",
+  "version": "1.0.0",
+  "description": "[![Первая часть](https://i9.ytimg.com/vi_webp/Elnsd8TWCrA/mqdefault.webp?v=632a5ba1&sqp=CLi-0JoG&rs=AOn4CLC1g6Qp9E-bq0OVyxGV2ch8Jq-pUg)](https://youtu.be/Elnsd8TWCrA)\r [Модальное окно (popup) практика HTML CSS JavaScript]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.7.1"
+  }
+}
